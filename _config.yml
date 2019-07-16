@@ -1,8 +1,8 @@
-title: jekyll test no.9
+title: OKD8811
 description: >- 
   test site for jekyll, navigation mainly.
 baseurl: "/jekyll_test9"
-url: "http://daddygongon.github.io"
+url: "http://OKD8811.github.io"
 
 # Build settings
 markdown: kramdown
