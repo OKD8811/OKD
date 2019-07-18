@@ -1,4 +1,4 @@
-<meeting with Imogen>
+meeting with Imogen
 自分は１時間ほど聞いていただけ状態で退出
 後日聞きに行く
 
